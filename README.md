@@ -1,6 +1,6 @@
 # fem
 Our code is a two-dimensional finite element code written in Fortran.
-The following functionalities can be implemented,
+The following functionalities can be implemented:
 Steady-State Heat Transfer Analysis,
 Steady-State Thermal Stress Analysis (only displacement boundary conditions verified),
 Verification of thermal stress due to differences in linear expansion coefficient, verification of reference temperature, verification of load boundary conditions,
